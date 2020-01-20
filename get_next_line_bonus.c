@@ -6,11 +6,11 @@
 /*   By: mahnich <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/08 12:44:07 by mahnich           #+#    #+#             */
-/*   Updated: 2020/01/16 20:56:53 by mahnich          ###   ########.fr       */
+/*   Updated: 2020/01/14 23:37:51 by mahnich          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 void	ft_bzero(void *s, size_t len)
 {

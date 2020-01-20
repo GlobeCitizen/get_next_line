@@ -6,11 +6,11 @@
 /*   By: mahnich <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/08 11:57:24 by mahnich           #+#    #+#             */
-/*   Updated: 2020/01/16 20:26:14 by mahnich          ###   ########.fr       */
+/*   Updated: 2020/01/14 16:01:06 by mahnich          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(char const *s)
 {
